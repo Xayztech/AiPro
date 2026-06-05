@@ -1,0 +1,19 @@
+{
+  "name": "aipro-floating-ai",
+  "version": "1.0.0",
+  "description": "AIPro Floating AI Assistant - Multi-model AI chat with floating overlay support",
+  "main": "aipro.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node aipro.js",
+    "dev": "node aipro.js",
+    "build": "echo 'No build needed - pure CJS'"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["ai", "gemini", "chatgpt", "floating", "assistant", "pwa"],
+  "author": "AIPro",
+  "license": "MIT",
+  "dependencies": {}
+}
